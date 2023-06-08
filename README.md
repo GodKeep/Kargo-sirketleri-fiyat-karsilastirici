@@ -1,4 +1,5 @@
-# kargo desi başına değerlerini panelden kendimiz girmemiz gerekiyor (panelden yapılabiliyor)
+#kargo firmalarının desi başına fiyatlarını karşılaştırmak için...
+kargo desi başına değerlerini panelden kendimiz girmemiz gerekiyor (panelden yapılabiliyor)
 hatalar açıklar olabilir düzeltir ya da bildirirseniz ekleme yaparım
 
 İçerikler bu şekilde tasarım konusuna çok kafa yormadım o yüzden kullanacak arkadaşların kendilerine göre bi şey yapması gerekebilir
